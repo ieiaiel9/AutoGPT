@@ -1,0 +1,75 @@
+﻿{
+    "generatedAtUtc":  "2026-04-21T05:02:15.3485723Z",
+    "batchId":  "batch-2-config-and-vscode",
+    "destinationRoot":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-2-config-and-vscode",
+    "includeCount":  9,
+    "copiedCount":  9,
+    "missingCount":  0,
+    "skippedCount":  0,
+    "copiedBySource":  {
+                           "source":  "RAZ-Core",
+                           "count":  9
+                       },
+    "copied":  [
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  ".vscode\\tasks.json",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\.vscode\\tasks.json",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-2-config-and-vscode\\RAZ-Core\\.vscode\\tasks.json"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  ".vscode\\settings.json",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\.vscode\\settings.json",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-2-config-and-vscode\\RAZ-Core\\.vscode\\settings.json"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  ".vscode\\launch.json",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\.vscode\\launch.json",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-2-config-and-vscode\\RAZ-Core\\.vscode\\launch.json"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  "system\\config.json",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\system\\config.json",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-2-config-and-vscode\\RAZ-Core\\system\\config.json"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  "RAZ-Tablet.spec",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\RAZ-Tablet.spec",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-2-config-and-vscode\\RAZ-Core\\RAZ-Tablet.spec"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  "RAZ-Core.spec",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\RAZ-Core.spec",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-2-config-and-vscode\\RAZ-Core\\RAZ-Core.spec"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  ".gitignore",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\.gitignore",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-2-config-and-vscode\\RAZ-Core\\.gitignore"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  "system\\version.json",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\system\\version.json",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-2-config-and-vscode\\RAZ-Core\\system\\version.json"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  ".sdd.json",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\.sdd.json",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-2-config-and-vscode\\RAZ-Core\\.sdd.json"
+                   }
+               ],
+    "missing":  [
+
+                ],
+    "skipped":  [
+
+                ]
+}

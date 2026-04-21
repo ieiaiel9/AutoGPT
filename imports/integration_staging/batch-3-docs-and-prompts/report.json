@@ -1,0 +1,75 @@
+﻿{
+    "generatedAtUtc":  "2026-04-21T05:02:15.3690813Z",
+    "batchId":  "batch-3-docs-and-prompts",
+    "destinationRoot":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-3-docs-and-prompts",
+    "includeCount":  8,
+    "copiedCount":  8,
+    "missingCount":  0,
+    "skippedCount":  0,
+    "copiedBySource":  [
+                           {
+                               "source":  "RAZ-Core",
+                               "count":  5
+                           },
+                           {
+                               "source":  "Raziel",
+                               "count":  3
+                           }
+                       ],
+    "copied":  [
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  "docs\\RAZ-context.md",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\docs\\RAZ-context.md",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-3-docs-and-prompts\\RAZ-Core\\docs\\RAZ-context.md"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  "docs\\raz_core.md",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\docs\\raz_core.md",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-3-docs-and-prompts\\RAZ-Core\\docs\\raz_core.md"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  "docs\\raz_api.http",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\docs\\raz_api.http",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-3-docs-and-prompts\\RAZ-Core\\docs\\raz_api.http"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  "requirements.txt",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\requirements.txt",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-3-docs-and-prompts\\RAZ-Core\\requirements.txt"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  "core\\Untitled-1.txt",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\core\\Untitled-1.txt",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-3-docs-and-prompts\\RAZ-Core\\core\\Untitled-1.txt"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "relativePath":  "Raz 1 Morals .txt",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\Raz 1 Morals .txt",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-3-docs-and-prompts\\Raziel\\Raz 1 Morals .txt"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "relativePath":  "Raziel\\phone.txt",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\Raziel\\phone.txt",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-3-docs-and-prompts\\Raziel\\Raziel\\phone.txt"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "relativePath":  "New Text Document.txt",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\New Text Document.txt",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-3-docs-and-prompts\\Raziel\\New Text Document.txt"
+                   }
+               ],
+    "missing":  [
+
+                ],
+    "skipped":  [
+
+                ]
+}

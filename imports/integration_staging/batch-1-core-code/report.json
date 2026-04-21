@@ -1,0 +1,237 @@
+﻿{
+    "generatedAtUtc":  "2026-04-21T05:01:38.7761731Z",
+    "batchId":  "batch-1-core-code",
+    "destinationRoot":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code",
+    "includeCount":  35,
+    "copiedCount":  35,
+    "missingCount":  0,
+    "skippedCount":  0,
+    "copiedBySource":  [
+                           {
+                               "source":  "RAZ-Core",
+                               "count":  20
+                           },
+                           {
+                               "source":  "Raziel",
+                               "count":  15
+                           }
+                       ],
+    "copied":  [
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  "app.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\app.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\RAZ-Core\\app.py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  "core\\chat.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\core\\chat.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\RAZ-Core\\core\\chat.py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  "core\\browser_agent.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\core\\browser_agent.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\RAZ-Core\\core\\browser_agent.py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  "core\\tools.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\core\\tools.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\RAZ-Core\\core\\tools.py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  "core\\secret_brain.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\core\\secret_brain.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\RAZ-Core\\core\\secret_brain.py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  "core\\memory_engine.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\core\\memory_engine.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\RAZ-Core\\core\\memory_engine.py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  "ingestion\\ingestor.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\ingestion\\ingestor.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\RAZ-Core\\ingestion\\ingestor.py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  "modes\\meeting_mode.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\modes\\meeting_mode.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\RAZ-Core\\modes\\meeting_mode.py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  "core\\voice_engine.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\core\\voice_engine.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\RAZ-Core\\core\\voice_engine.py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  "main.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\main.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\RAZ-Core\\main.py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  "assets\\icon_gen.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\assets\\icon_gen.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\RAZ-Core\\assets\\icon_gen.py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  "core\\captcha_agent.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\core\\captcha_agent.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\RAZ-Core\\core\\captcha_agent.py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  "core\\gmail_agent.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\core\\gmail_agent.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\RAZ-Core\\core\\gmail_agent.py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  "core\\git_agent.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\core\\git_agent.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\RAZ-Core\\core\\git_agent.py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  "core\\backup_agent.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\core\\backup_agent.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\RAZ-Core\\core\\backup_agent.py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  "app_tablet.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\app_tablet.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\RAZ-Core\\app_tablet.py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  "modes\\__init__.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\modes\\__init__.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\RAZ-Core\\modes\\__init__.py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  "core\\__init__.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\core\\__init__.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\RAZ-Core\\core\\__init__.py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  "system\\__init__.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\system\\__init__.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\RAZ-Core\\system\\__init__.py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "relativePath":  "ingestion\\__init__.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\ingestion\\__init__.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\RAZ-Core\\ingestion\\__init__.py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "relativePath":  "Raziel\\get-pip.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\Raziel\\get-pip.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\Raziel\\Raziel\\get-pip.py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "relativePath":  "Raziel\\RAZ1.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\Raziel\\RAZ1.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\Raziel\\Raziel\\RAZ1.py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "relativePath":  "Raziel\\RAZ2.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\Raziel\\RAZ2.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\Raziel\\Raziel\\RAZ2.py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "relativePath":  "Raziel\\raz5.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\Raziel\\raz5.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\Raziel\\Raziel\\raz5.py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "relativePath":  "Raziel\\raz4.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\Raziel\\raz4.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\Raziel\\Raziel\\raz4.py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "relativePath":  "Raziel\\test.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\Raziel\\test.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\Raziel\\Raziel\\test.py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "relativePath":  "Raziel\\raz3.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\Raziel\\raz3.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\Raziel\\Raziel\\raz3.py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "relativePath":  "RAZ.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\RAZ.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\Raziel\\RAZ.py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "relativePath":  "Raziel\\RAZ.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\Raziel\\RAZ.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\Raziel\\Raziel\\RAZ.py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "relativePath":  "Raziel\\phone.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\Raziel\\phone.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\Raziel\\Raziel\\phone.py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "relativePath":  "Raziel\\AutoGPT\\tests.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\Raziel\\AutoGPT\\tests.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\Raziel\\Raziel\\AutoGPT\\tests.py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "relativePath":  "Raziel\\wit_bot.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\Raziel\\wit_bot.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\Raziel\\Raziel\\wit_bot.py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "relativePath":  "wit_bot.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\wit_bot.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\Raziel\\wit_bot.py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "relativePath":  "Raziel\\AutoGPT\\setup.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\Raziel\\AutoGPT\\setup.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\Raziel\\Raziel\\AutoGPT\\setup.py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "relativePath":  "Raziel\\AutoGPT\\main.py",
+                       "from":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\Raziel\\AutoGPT\\main.py",
+                       "to":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-1-core-code\\Raziel\\Raziel\\AutoGPT\\main.py"
+                   }
+               ],
+    "missing":  [
+
+                ],
+    "skipped":  [
+
+                ]
+}

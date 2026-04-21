@@ -1,0 +1,660 @@
+﻿{
+    "generatedAtUtc":  "2026-04-21T05:04:36.9196364Z",
+    "batchId":  "batch-5-reference-index",
+    "includeCount":  93,
+    "indexedReferenceCount":  28,
+    "unresolvedCount":  66,
+    "rows":  [
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\docs\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\docs\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raz 1.xlsx",
+                     "source":  "Raziel",
+                     "status":  "indexed_reference",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raz 1.xlsx"
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Raz 1.xlsx",
+                     "source":  "Raziel",
+                     "status":  "indexed_reference",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Raz 1.xlsx"
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\.env",
+                     "source":  "Raziel",
+                     "status":  "indexed_reference",
+                     "sensitive":  true,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\.env"
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\tests..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\tests..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\tests..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\tests..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\tests..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\raz5",
+                     "source":  "Raziel",
+                     "status":  "indexed_reference",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\raz5"
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\tests..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\tests..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\tests..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\tests..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\raz4",
+                     "source":  "Raziel",
+                     "status":  "indexed_reference",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\raz4"
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\tests..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\tests..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\tests..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\tests..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\test",
+                     "source":  "Raziel",
+                     "status":  "indexed_reference",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\test"
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\tests..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\tests..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\LICENSE",
+                     "source":  "Raziel",
+                     "status":  "indexed_reference",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\LICENSE"
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\tests..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\tests..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raz Wire",
+                     "source":  "Raziel",
+                     "status":  "indexed_reference",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raz Wire"
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Raz Wire",
+                     "source":  "Raziel",
+                     "status":  "indexed_reference",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Raz Wire"
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\.envrc",
+                     "source":  "Raziel",
+                     "status":  "indexed_reference",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\.envrc"
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\run.sh",
+                     "source":  "Raziel",
+                     "status":  "indexed_reference",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\run.sh"
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\.flake8",
+                     "source":  "Raziel",
+                     "status":  "indexed_reference",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\.flake8"
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\run.bat",
+                     "source":  "Raziel",
+                     "status":  "indexed_reference",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\run.bat"
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-2\\pyvenv.cfg",
+                     "source":  "Raziel",
+                     "status":  "indexed_reference",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\.venv-2\\pyvenv.cfg"
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-4\\pyvenv.cfg",
+                     "source":  "Raziel",
+                     "status":  "indexed_reference",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\.venv-4\\pyvenv.cfg"
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-3\\pyvenv.cfg",
+                     "source":  "Raziel",
+                     "status":  "indexed_reference",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\.venv-3\\pyvenv.cfg"
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-1\\pyvenv.cfg",
+                     "source":  "Raziel",
+                     "status":  "indexed_reference",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\.venv-1\\pyvenv.cfg"
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-5\\pyvenv.cfg",
+                     "source":  "Raziel",
+                     "status":  "indexed_reference",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\.venv-5\\pyvenv.cfg"
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\tests..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-1\\CACHEDIR.TAG",
+                     "source":  "Raziel",
+                     "status":  "indexed_reference",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\.venv-1\\CACHEDIR.TAG"
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-2\\CACHEDIR.TAG",
+                     "source":  "Raziel",
+                     "status":  "indexed_reference",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\.venv-2\\CACHEDIR.TAG"
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-4\\CACHEDIR.TAG",
+                     "source":  "Raziel",
+                     "status":  "indexed_reference",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\.venv-4\\CACHEDIR.TAG"
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-5\\CACHEDIR.TAG",
+                     "source":  "Raziel",
+                     "status":  "indexed_reference",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\.venv-5\\CACHEDIR.TAG"
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-3\\CACHEDIR.TAG",
+                     "source":  "Raziel",
+                     "status":  "indexed_reference",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\.venv-3\\CACHEDIR.TAG"
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Secret Brain\\..."
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-3\\.gitignore",
+                     "source":  "Raziel",
+                     "status":  "indexed_reference",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\.venv-3\\.gitignore"
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-5\\.gitignore",
+                     "source":  "Raziel",
+                     "status":  "indexed_reference",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\.venv-5\\.gitignore"
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-4\\.gitignore",
+                     "source":  "Raziel",
+                     "status":  "indexed_reference",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\.venv-4\\.gitignore"
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-1\\.gitignore",
+                     "source":  "Raziel",
+                     "status":  "indexed_reference",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\.venv-1\\.gitignore"
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-2\\.gitignore",
+                     "source":  "Raziel",
+                     "status":  "indexed_reference",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\.venv-2\\.gitignore"
+                 },
+                 {
+                     "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                     "source":  "Raziel",
+                     "status":  "placeholder",
+                     "sensitive":  false,
+                     "consolidatedReferencePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\tests..."
+                 }
+             ]
+}

@@ -1,0 +1,39 @@
+﻿{
+    "generatedAtUtc":  "2026-04-21T05:04:36.5718458Z",
+    "batchId":  "batch-4-assets-and-data-review",
+    "policy":  "exclude binaries and db by default; approve code-only candidates",
+    "includeCount":  6,
+    "approvedCount":  1,
+    "quarantinedCount":  5,
+    "approved":  [
+                     {
+                         "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\icon_gen.py",
+                         "source":  "RAZ-Core",
+                         "relativePath":  "assets\\icon_gen.py",
+                         "decision":  "approved_non_binary_code",
+                         "stagedPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\integration_staging\\batch-4-assets-and-data-review\\approved\\RAZ-Core\\assets\\icon_gen.py"
+                     }
+                 ],
+    "quarantined":  [
+                        {
+                            "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\screenshots...",
+                            "reason":  "placeholder_path"
+                        },
+                        {
+                            "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\raz_icon.png",
+                            "reason":  "binary_or_data_default_quarantine"
+                        },
+                        {
+                            "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\raz_tablet.ico",
+                            "reason":  "binary_or_data_default_quarantine"
+                        },
+                        {
+                            "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\raz.ico",
+                            "reason":  "binary_or_data_default_quarantine"
+                        },
+                        {
+                            "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\memory\\raz_memory.db",
+                            "reason":  "binary_or_data_default_quarantine"
+                        }
+                    ]
+}
