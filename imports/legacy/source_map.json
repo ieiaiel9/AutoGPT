@@ -1,0 +1,29 @@
+{
+  "primaryWorkspace": "AutoGPT",
+  "status": "scaffolded",
+  "sources": [
+    {
+      "name": "RAZ-Core",
+      "path": "C:/Users/Ry/OneDrive/Floater ShareDrive/Anon/RAZ/RAZ-Core",
+      "type": "active_engine_candidate",
+      "importStatus": "pending_review"
+    },
+    {
+      "name": "Raziel",
+      "path": "C:/Users/Ry/OneDrive/Floater ShareDrive/Anon/RAZ/Raziel",
+      "type": "legacy_workbench",
+      "importStatus": "pending_review"
+    },
+    {
+      "name": "RAZ Research",
+      "path": "C:/Users/Ry/OneDrive/Floater ShareDrive/Anon/RAZ/RAZ Research",
+      "type": "reference_material",
+      "importStatus": "pending_review"
+    }
+  ],
+  "rules": [
+    "Do not move or delete source folders during initial pass",
+    "Copy high-value artifacts into structured memory folders",
+    "Classify each artifact as keep, reference, or archive"
+  ]
+}

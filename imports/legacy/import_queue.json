@@ -1,0 +1,985 @@
+﻿{
+    "generatedAt":  "2026-04-20T23:32:35",
+    "totalCandidates":  163,
+    "included":  163,
+    "queue":  [
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\memory\\raz_memory.db",
+                      "extension":  ".db",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\screenshots...",
+                      "extension":  "",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\screenshots...",
+                      "extension":  "",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\screenshots...",
+                      "extension":  "",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\screenshots...",
+                      "extension":  "",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\screenshots...",
+                      "extension":  "",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\screenshots...",
+                      "extension":  "",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\screenshots...",
+                      "extension":  "",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\screenshots...",
+                      "extension":  "",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\screenshots...",
+                      "extension":  "",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\screenshots...",
+                      "extension":  "",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\screenshots...",
+                      "extension":  "",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\screenshots...",
+                      "extension":  "",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\screenshots...",
+                      "extension":  "",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\app.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\screenshots...",
+                      "extension":  "",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\core\\chat.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\core\\browser_agent.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\raz_icon.png",
+                      "extension":  ".png",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\raz_tablet.ico",
+                      "extension":  ".ico",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\raz.ico",
+                      "extension":  ".ico",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\core\\tools.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\core\\secret_brain.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\core\\memory_engine.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\.vscode\\tasks.json",
+                      "extension":  ".json",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\ingestion\\ingestor.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\modes\\meeting_mode.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\.vscode\\settings.json",
+                      "extension":  ".json",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\core\\voice_engine.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\main.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\icon_gen.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\core\\captcha_agent.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\core\\gmail_agent.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\core\\git_agent.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\core\\backup_agent.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\.vscode\\launch.json",
+                      "extension":  ".json",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\system\\config.json",
+                      "extension":  ".json",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\docs\\RAZ-context.md",
+                      "extension":  ".md",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\RAZ-Tablet.spec",
+                      "extension":  ".spec",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\RAZ-Core.spec",
+                      "extension":  ".spec",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\docs\\raz_core.md",
+                      "extension":  ".md",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\.gitignore",
+                      "extension":  ".gitignore",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\docs\\raz_api.http",
+                      "extension":  ".http",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\app_tablet.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\system\\version.json",
+                      "extension":  ".json",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\.sdd.json",
+                      "extension":  ".json",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\requirements.txt",
+                      "extension":  ".txt",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\core\\Untitled-1.txt",
+                      "extension":  ".txt",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\modes\\__init__.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\core\\__init__.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\system\\__init__.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "RAZ-Core_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\ingestion\\__init__.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\get-pip.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\docs\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raz 1.xlsx",
+                      "extension":  ".xlsx",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Raz 1.xlsx",
+                      "extension":  ".xlsx",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\RAZ1.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\.env",
+                      "extension":  ".env",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\RAZ2.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\raz5.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\raz4.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\raz5",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\test.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\raz4",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\raz3.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\RAZ.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\test",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\RAZ.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\LICENSE",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raz 1 Morals .txt",
+                      "extension":  ".txt",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\phone.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raz Wire",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Raz Wire",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\wit_bot.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\wit_bot.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\setup.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\.envrc",
+                      "extension":  ".envrc",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\run.sh",
+                      "extension":  ".sh",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\.flake8",
+                      "extension":  ".flake8",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\run.bat",
+                      "extension":  ".bat",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-2\\pyvenv.cfg",
+                      "extension":  ".cfg",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-4\\pyvenv.cfg",
+                      "extension":  ".cfg",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-3\\pyvenv.cfg",
+                      "extension":  ".cfg",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-1\\pyvenv.cfg",
+                      "extension":  ".cfg",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-5\\pyvenv.cfg",
+                      "extension":  ".cfg",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-1\\CACHEDIR.TAG",
+                      "extension":  ".tag",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-2\\CACHEDIR.TAG",
+                      "extension":  ".tag",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-4\\CACHEDIR.TAG",
+                      "extension":  ".tag",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-5\\CACHEDIR.TAG",
+                      "extension":  ".tag",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-3\\CACHEDIR.TAG",
+                      "extension":  ".tag",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\main.py",
+                      "extension":  ".py",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-3\\.gitignore",
+                      "extension":  ".gitignore",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-5\\.gitignore",
+                      "extension":  ".gitignore",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-4\\.gitignore",
+                      "extension":  ".gitignore",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-1\\.gitignore",
+                      "extension":  ".gitignore",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-2\\.gitignore",
+                      "extension":  ".gitignore",
+                      "bucket":  "reference_only"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\phone.txt",
+                      "extension":  ".txt",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\New Text Document.txt",
+                      "extension":  ".txt",
+                      "bucket":  "keep_and_integrate"
+                  },
+                  {
+                      "source":  "Raziel_manifest",
+                      "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                      "extension":  "",
+                      "bucket":  "reference_only"
+                  }
+              ]
+}
