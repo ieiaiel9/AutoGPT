@@ -1,0 +1,5 @@
+{
+  "hooks": {
+    "pre:code-review": "cd 'C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core' && python -c \"import ast; ast.parse(open('app.py',encoding='utf-8').read()); print('Syntax OK')\""
+  }
+}

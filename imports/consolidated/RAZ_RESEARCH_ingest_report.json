@@ -1,0 +1,32 @@
+﻿{
+    "generatedAtUtc":  "2026-04-21T05:04:37.2381494Z",
+    "sourceRoot":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ Research",
+    "destinationRoot":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\RAZ Research",
+    "copiedCount":  4,
+    "copied":  [
+                   {
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ Research\\RAZ LF DATA\\Pages_and_screens_Page_path_and_screen_class.csv",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\RAZ Research\\RAZ LF DATA\\Pages_and_screens_Page_path_and_screen_class.csv",
+                       "sizeBytes":  36052,
+                       "extension":  ".csv"
+                   },
+                   {
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ Research\\RAZ LF DATA\\Sessions by day - 2016-01-01 - 2025-08-26.csv",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\RAZ Research\\RAZ LF DATA\\Sessions by day - 2016-01-01 - 2025-08-26.csv",
+                       "sizeBytes":  4912362,
+                       "extension":  ".csv"
+                   },
+                   {
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ Research\\RAZ LF DATA\\Total sales by day - 2016-01-01 - 2025-08-26.csv",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\RAZ Research\\RAZ LF DATA\\Total sales by day - 2016-01-01 - 2025-08-26.csv",
+                       "sizeBytes":  349149,
+                       "extension":  ".csv"
+                   },
+                   {
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ Research\\RAZ LF DATA\\Traffic_acquisition_Session_primary_channel_group_(Default_Channel_Group) - google 1.csv",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\RAZ Research\\RAZ LF DATA\\Traffic_acquisition_Session_primary_channel_group_(Default_Channel_Group) - google 1.csv",
+                       "sizeBytes":  1235,
+                       "extension":  ".csv"
+                   }
+               ]
+}

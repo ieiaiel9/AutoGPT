@@ -1,0 +1,21 @@
+﻿{
+    "generatedAtUtc":  "2026-04-21T05:04:37.3673331Z",
+    "consolidatedRoot":  "imports/consolidated",
+    "sources":  [
+                    {
+                        "source":  "RAZ-Core",
+                        "copiedCount":  38,
+                        "status":  "represented"
+                    },
+                    {
+                        "source":  "Raziel",
+                        "copiedCount":  46,
+                        "status":  "represented"
+                    },
+                    {
+                        "source":  "RAZ Research",
+                        "copiedCount":  4,
+                        "status":  "represented"
+                    }
+                ]
+}

@@ -1,0 +1,17 @@
+### RAZ API Scratch
+### Use with the REST Client extension.
+
+### Ollama health and model list
+GET http://127.0.0.1:11434/api/tags
+
+### Ollama quick generate
+POST http://127.0.0.1:11434/api/generate
+Content-Type: application/json
+
+{
+  "model": "llama3",
+  "prompt": "Summarize the current RAZ workspace health in one paragraph.",
+  "stream": false
+}
+
+### Add project-specific endpoints below this line as they are introduced.

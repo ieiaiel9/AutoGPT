@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# PyInstaller build artifacts
+build/
+dist/*.exe
+dist/*.apk
+dist/installer/
+*.spec.bak
+
+# Secrets & config (never commit keys)
+system/config.json
+memory/raz_memory.db
+memory/raz_memory_*.db
+
+# Logs (large/volatile)
+logs/*.json
+logs/*.txt
+logs/meetings/
+
+# Android build intermediates
+android/build/
+android/work/
+android/debug.keystore
+
+# IDE
+.vscode/settings.json
+.vscode/*.log
+.idea/
+*.swp
+*.swo
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Installer artifacts
+installer/Output/

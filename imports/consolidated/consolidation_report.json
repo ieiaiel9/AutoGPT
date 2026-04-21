@@ -1,0 +1,1183 @@
+﻿{
+    "summary":  {
+                    "generatedAtUtc":  "2026-04-21T04:52:31.9996553Z",
+                    "destinationRoot":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated",
+                    "totalQueue":  163,
+                    "copiedCount":  84,
+                    "missingCount":  0,
+                    "skippedCount":  79,
+                    "copiedByBucket":  [
+                                           {
+                                               "bucket":  "keep_and_integrate",
+                                               "count":  56
+                                           },
+                                           {
+                                               "bucket":  "reference_only",
+                                               "count":  28
+                                           }
+                                       ],
+                    "copiedBySource":  [
+                                           {
+                                               "source":  "RAZ-Core",
+                                               "count":  38
+                                           },
+                                           {
+                                               "source":  "Raziel",
+                                               "count":  46
+                                           }
+                                       ]
+                },
+    "copied":  [
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "memory\\raz_memory.db",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\memory\\raz_memory.db",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\memory\\raz_memory.db",
+                       "extension":  ".db"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "app.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\app.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\app.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "core\\chat.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\core\\chat.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\core\\chat.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "core\\browser_agent.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\core\\browser_agent.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\core\\browser_agent.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "assets\\raz_icon.png",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\raz_icon.png",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\assets\\raz_icon.png",
+                       "extension":  ".png"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "assets\\raz_tablet.ico",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\raz_tablet.ico",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\assets\\raz_tablet.ico",
+                       "extension":  ".ico"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "assets\\raz.ico",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\raz.ico",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\assets\\raz.ico",
+                       "extension":  ".ico"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "core\\tools.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\core\\tools.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\core\\tools.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "core\\secret_brain.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\core\\secret_brain.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\core\\secret_brain.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "core\\memory_engine.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\core\\memory_engine.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\core\\memory_engine.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  ".vscode\\tasks.json",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\.vscode\\tasks.json",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\.vscode\\tasks.json",
+                       "extension":  ".json"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "ingestion\\ingestor.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\ingestion\\ingestor.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\ingestion\\ingestor.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "modes\\meeting_mode.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\modes\\meeting_mode.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\modes\\meeting_mode.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  ".vscode\\settings.json",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\.vscode\\settings.json",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\.vscode\\settings.json",
+                       "extension":  ".json"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "core\\voice_engine.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\core\\voice_engine.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\core\\voice_engine.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "main.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\main.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\main.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "assets\\icon_gen.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\icon_gen.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\assets\\icon_gen.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "core\\captcha_agent.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\core\\captcha_agent.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\core\\captcha_agent.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "core\\gmail_agent.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\core\\gmail_agent.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\core\\gmail_agent.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "core\\git_agent.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\core\\git_agent.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\core\\git_agent.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "core\\backup_agent.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\core\\backup_agent.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\core\\backup_agent.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  ".vscode\\launch.json",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\.vscode\\launch.json",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\.vscode\\launch.json",
+                       "extension":  ".json"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "system\\config.json",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\system\\config.json",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\system\\config.json",
+                       "extension":  ".json"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "docs\\RAZ-context.md",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\docs\\RAZ-context.md",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\docs\\RAZ-context.md",
+                       "extension":  ".md"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "RAZ-Tablet.spec",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\RAZ-Tablet.spec",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\RAZ-Tablet.spec",
+                       "extension":  ".spec"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "RAZ-Core.spec",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\RAZ-Core.spec",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\RAZ-Core.spec",
+                       "extension":  ".spec"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "docs\\raz_core.md",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\docs\\raz_core.md",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\docs\\raz_core.md",
+                       "extension":  ".md"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  ".gitignore",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\.gitignore",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\.gitignore",
+                       "extension":  ".gitignore"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "docs\\raz_api.http",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\docs\\raz_api.http",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\docs\\raz_api.http",
+                       "extension":  ".http"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "app_tablet.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\app_tablet.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\app_tablet.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "system\\version.json",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\system\\version.json",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\system\\version.json",
+                       "extension":  ".json"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  ".sdd.json",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\.sdd.json",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\.sdd.json",
+                       "extension":  ".json"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "requirements.txt",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\requirements.txt",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\requirements.txt",
+                       "extension":  ".txt"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "core\\Untitled-1.txt",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\core\\Untitled-1.txt",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\core\\Untitled-1.txt",
+                       "extension":  ".txt"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "modes\\__init__.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\modes\\__init__.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\modes\\__init__.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "core\\__init__.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\core\\__init__.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\core\\__init__.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "system\\__init__.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\system\\__init__.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\system\\__init__.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "RAZ-Core",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "ingestion\\__init__.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\ingestion\\__init__.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\RAZ-Core\\ingestion\\__init__.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "Raziel\\get-pip.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\get-pip.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\Raziel\\get-pip.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "reference_only",
+                       "relativePath":  "Raz 1.xlsx",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raz 1.xlsx",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raz 1.xlsx",
+                       "extension":  ".xlsx"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "reference_only",
+                       "relativePath":  "Raziel\\Raz 1.xlsx",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Raz 1.xlsx",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Raz 1.xlsx",
+                       "extension":  ".xlsx"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "Raziel\\RAZ1.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\RAZ1.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\Raziel\\RAZ1.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "reference_only",
+                       "relativePath":  "Raziel\\AutoGPT\\.env",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\.env",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\.env",
+                       "extension":  ".env"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "Raziel\\RAZ2.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\RAZ2.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\Raziel\\RAZ2.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "Raziel\\raz5.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\raz5.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\Raziel\\raz5.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "Raziel\\raz4.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\raz4.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\Raziel\\raz4.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "reference_only",
+                       "relativePath":  "Raziel\\raz5",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\raz5",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\raz5",
+                       "extension":  ""
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "Raziel\\test.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\test.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\Raziel\\test.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "reference_only",
+                       "relativePath":  "Raziel\\raz4",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\raz4",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\raz4",
+                       "extension":  ""
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "Raziel\\raz3.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\raz3.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\Raziel\\raz3.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "RAZ.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\RAZ.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\RAZ.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "reference_only",
+                       "relativePath":  "Raziel\\test",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\test",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\test",
+                       "extension":  ""
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "Raziel\\RAZ.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\RAZ.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\Raziel\\RAZ.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "reference_only",
+                       "relativePath":  "Raziel\\AutoGPT\\LICENSE",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\LICENSE",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\LICENSE",
+                       "extension":  ""
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "Raz 1 Morals .txt",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raz 1 Morals .txt",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\Raz 1 Morals .txt",
+                       "extension":  ".txt"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "Raziel\\phone.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\phone.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\Raziel\\phone.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "Raziel\\AutoGPT\\tests.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\Raziel\\AutoGPT\\tests.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "reference_only",
+                       "relativePath":  "Raz Wire",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raz Wire",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raz Wire",
+                       "extension":  ""
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "reference_only",
+                       "relativePath":  "Raziel\\Raz Wire",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Raz Wire",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\Raz Wire",
+                       "extension":  ""
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "Raziel\\wit_bot.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\wit_bot.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\Raziel\\wit_bot.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "wit_bot.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\wit_bot.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\wit_bot.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "Raziel\\AutoGPT\\setup.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\setup.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\Raziel\\AutoGPT\\setup.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "reference_only",
+                       "relativePath":  "Raziel\\AutoGPT\\.envrc",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\.envrc",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\.envrc",
+                       "extension":  ".envrc"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "reference_only",
+                       "relativePath":  "Raziel\\AutoGPT\\run.sh",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\run.sh",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\run.sh",
+                       "extension":  ".sh"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "reference_only",
+                       "relativePath":  "Raziel\\AutoGPT\\.flake8",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\.flake8",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\.flake8",
+                       "extension":  ".flake8"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "reference_only",
+                       "relativePath":  "Raziel\\AutoGPT\\run.bat",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\run.bat",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\Raziel\\AutoGPT\\run.bat",
+                       "extension":  ".bat"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "reference_only",
+                       "relativePath":  ".venv-2\\pyvenv.cfg",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-2\\pyvenv.cfg",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\.venv-2\\pyvenv.cfg",
+                       "extension":  ".cfg"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "reference_only",
+                       "relativePath":  ".venv-4\\pyvenv.cfg",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-4\\pyvenv.cfg",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\.venv-4\\pyvenv.cfg",
+                       "extension":  ".cfg"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "reference_only",
+                       "relativePath":  ".venv-3\\pyvenv.cfg",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-3\\pyvenv.cfg",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\.venv-3\\pyvenv.cfg",
+                       "extension":  ".cfg"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "reference_only",
+                       "relativePath":  ".venv-1\\pyvenv.cfg",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-1\\pyvenv.cfg",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\.venv-1\\pyvenv.cfg",
+                       "extension":  ".cfg"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "reference_only",
+                       "relativePath":  ".venv-5\\pyvenv.cfg",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-5\\pyvenv.cfg",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\.venv-5\\pyvenv.cfg",
+                       "extension":  ".cfg"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "reference_only",
+                       "relativePath":  ".venv-1\\CACHEDIR.TAG",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-1\\CACHEDIR.TAG",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\.venv-1\\CACHEDIR.TAG",
+                       "extension":  ".tag"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "reference_only",
+                       "relativePath":  ".venv-2\\CACHEDIR.TAG",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-2\\CACHEDIR.TAG",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\.venv-2\\CACHEDIR.TAG",
+                       "extension":  ".tag"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "reference_only",
+                       "relativePath":  ".venv-4\\CACHEDIR.TAG",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-4\\CACHEDIR.TAG",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\.venv-4\\CACHEDIR.TAG",
+                       "extension":  ".tag"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "reference_only",
+                       "relativePath":  ".venv-5\\CACHEDIR.TAG",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-5\\CACHEDIR.TAG",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\.venv-5\\CACHEDIR.TAG",
+                       "extension":  ".tag"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "reference_only",
+                       "relativePath":  ".venv-3\\CACHEDIR.TAG",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-3\\CACHEDIR.TAG",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\.venv-3\\CACHEDIR.TAG",
+                       "extension":  ".tag"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "Raziel\\AutoGPT\\main.py",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\main.py",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\Raziel\\AutoGPT\\main.py",
+                       "extension":  ".py"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "reference_only",
+                       "relativePath":  ".venv-3\\.gitignore",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-3\\.gitignore",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\.venv-3\\.gitignore",
+                       "extension":  ".gitignore"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "reference_only",
+                       "relativePath":  ".venv-5\\.gitignore",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-5\\.gitignore",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\.venv-5\\.gitignore",
+                       "extension":  ".gitignore"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "reference_only",
+                       "relativePath":  ".venv-4\\.gitignore",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-4\\.gitignore",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\.venv-4\\.gitignore",
+                       "extension":  ".gitignore"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "reference_only",
+                       "relativePath":  ".venv-1\\.gitignore",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-1\\.gitignore",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\.venv-1\\.gitignore",
+                       "extension":  ".gitignore"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "reference_only",
+                       "relativePath":  ".venv-2\\.gitignore",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\.venv-2\\.gitignore",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\reference_only\\Raziel\\.venv-2\\.gitignore",
+                       "extension":  ".gitignore"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "Raziel\\phone.txt",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\phone.txt",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\Raziel\\phone.txt",
+                       "extension":  ".txt"
+                   },
+                   {
+                       "source":  "Raziel",
+                       "bucket":  "keep_and_integrate",
+                       "relativePath":  "New Text Document.txt",
+                       "sourcePath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\New Text Document.txt",
+                       "destinationPath":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\imports\\consolidated\\keep_and_integrate\\Raziel\\New Text Document.txt",
+                       "extension":  ".txt"
+                   }
+               ],
+    "missing":  [
+
+                ],
+    "skipped":  [
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\screenshots...",
+                        "bucket":  "keep_and_integrate",
+                        "source":  "RAZ-Core_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\screenshots...",
+                        "bucket":  "keep_and_integrate",
+                        "source":  "RAZ-Core_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\screenshots...",
+                        "bucket":  "keep_and_integrate",
+                        "source":  "RAZ-Core_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\screenshots...",
+                        "bucket":  "keep_and_integrate",
+                        "source":  "RAZ-Core_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\screenshots...",
+                        "bucket":  "keep_and_integrate",
+                        "source":  "RAZ-Core_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\screenshots...",
+                        "bucket":  "keep_and_integrate",
+                        "source":  "RAZ-Core_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\screenshots...",
+                        "bucket":  "keep_and_integrate",
+                        "source":  "RAZ-Core_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\screenshots...",
+                        "bucket":  "keep_and_integrate",
+                        "source":  "RAZ-Core_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\screenshots...",
+                        "bucket":  "keep_and_integrate",
+                        "source":  "RAZ-Core_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\screenshots...",
+                        "bucket":  "keep_and_integrate",
+                        "source":  "RAZ-Core_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\screenshots...",
+                        "bucket":  "keep_and_integrate",
+                        "source":  "RAZ-Core_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\screenshots...",
+                        "bucket":  "keep_and_integrate",
+                        "source":  "RAZ-Core_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\screenshots...",
+                        "bucket":  "keep_and_integrate",
+                        "source":  "RAZ-Core_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\RAZ-Core\\assets\\screenshots...",
+                        "bucket":  "keep_and_integrate",
+                        "source":  "RAZ-Core_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\docs\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\Secret Brain\\...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    },
+                    {
+                        "reason":  "placeholder_or_empty",
+                        "path":  "C:\\Users\\Ry\\OneDrive\\Floater ShareDrive\\Anon\\RAZ\\Raziel\\Raziel\\AutoGPT\\tests...",
+                        "bucket":  "reference_only",
+                        "source":  "Raziel_manifest"
+                    }
+                ]
+}
