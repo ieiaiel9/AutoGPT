@@ -1,0 +1,57 @@
+﻿{
+  "status": "batches_1_5_processed_with_batch5_auto_resolution",
+  "batchPlan": "imports/legacy/migration_batches.json",
+  "consolidatedRoot": "imports/consolidated",
+  "consolidationReport": "imports/consolidated/consolidation_report.json",
+  "sourceCoverage": "imports/consolidated/SOURCE_COVERAGE.json",
+  "currentBatch": "batch-5-reference-index",
+  "currentBatchReport": "imports/integration_staging/batch-5-reference-index/index_compacted.json",
+  "currentBatchSummary": "imports/integration_staging/batch-5-reference-index/SUMMARY.md",
+  "completedBatches": [
+    "batch-1-core-code",
+    "batch-2-config-and-vscode",
+    "batch-3-docs-and-prompts",
+    "batch-4-assets-and-data-review",
+    "batch-5-reference-index"
+  ],
+  "pendingManualBatches": [],
+  "manualBatchReports": {
+    "batch-4DecisionReport": "imports/integration_staging/batch-4-assets-and-data-review/decision_report.json",
+    "batch-4Summary": "imports/integration_staging/batch-4-assets-and-data-review/SUMMARY.md",
+    "batch-5CompactedIndex": "imports/integration_staging/batch-5-reference-index/index_compacted.json",
+    "batch-5UnresolvedLedger": "imports/integration_staging/batch-5-reference-index/unresolved_ledger.json",
+    "batch-5ResolutionPlan": "imports/integration_staging/batch-5-reference-index/proposed_resolution_plan.json",
+    "batch-5ResolutionSummary": "imports/integration_staging/batch-5-reference-index/RESOLUTION_SUMMARY.md",
+    "batch-5UnresolvedLedgerAfterResolution": "imports/integration_staging/batch-5-reference-index/unresolved_ledger_after_resolution.json"
+  },
+  "batch5AutoResolution": {
+    "inputUnresolvedCount": 66,
+    "remainingUnresolvedCount": 0,
+    "autoPromotedReferenceCopies": 0
+  },
+  "sourceRepresentationUpdate": {
+    "report": "imports/consolidated/RAZ_RESEARCH_ingest_report.json",
+    "coverage": "imports/consolidated/SOURCE_COVERAGE.json"
+  },
+  "buckets": {
+    "keep_and_integrate": [],
+    "reference_only": [],
+    "archive": []
+  },
+  "criteria": {
+    "keep_and_integrate": [
+      "active scripts and runtime modules",
+      "prompts and workflow logic",
+      "project memory and preference notes"
+    ],
+    "reference_only": [
+      "historical docs with occasional lookup value",
+      "old outputs useful for context but not runtime"
+    ],
+    "archive": [
+      "duplicate environments",
+      "installers and binaries",
+      "stale logs and generated artifacts"
+    ]
+  }
+}
