@@ -1,7 +1,6 @@
 """Configuration class to store the state of bools for different scripts access."""
 import os
 
-import openai
 import yaml
 from colorama import Fore
 from dotenv import load_dotenv
@@ -48,9 +47,6 @@ class Config(metaclass=Singleton):
 
         if self.use_azure:
             self.load_azure_config()
-            openai.api_type = self.openai_api_type
-            openai.api_base = self.openai_api_base
-            openai.api_version = self.openai_api_version
 
         self.elevenlabs_api_key = os.getenv("ELEVENLABS_API_KEY")
         self.elevenlabs_voice_1_id = os.getenv("ELEVENLABS_VOICE_1_ID")
@@ -120,8 +116,6 @@ class Config(metaclass=Singleton):
         # Note that indexes must be created on db 0 in redis, this is not configurable.
 
         self.memory_backend = os.getenv("MEMORY_BACKEND", "local")
-        # Initialize the OpenAI API client
-        openai.api_key = self.openai_api_key
 
     def get_azure_deployment_id_for_model(self, model: str) -> str:
         """

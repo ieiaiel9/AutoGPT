@@ -10,10 +10,11 @@ from autogpt.app import execute_command, list_agents, start_agent
 @pytest.mark.integration_test
 def test_make_agent() -> None:
     """Test the make_agent command"""
-    with patch("openai.ChatCompletion.create") as mock:
-        obj = MagicMock()
-        obj.response.choices[0].messages[0].content = "Test message"
-        mock.return_value = obj
+    # Patch the v1 SDK path used by llm_utils._get_client().chat.completions.create
+    with patch("autogpt.llm_utils._get_client") as mock_get_client:
+        mock_response = MagicMock()
+        mock_response.choices[0].message.content = "Acknowledged"
+        mock_get_client.return_value.chat.completions.create.return_value = mock_response
         start_agent("Test Agent", "chat", "Hello, how are you?", "gpt2")
         agents = list_agents()
         assert "List of agents:\n0: chat" == agents

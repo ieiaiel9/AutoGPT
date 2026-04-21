@@ -1,15 +1,15 @@
 beautifulsoup4
 colorama==0.4.6
-openai==0.27.2
+openai>=1.0.0
 playsound==1.2.2
 python-dotenv==1.0.0
-pyyaml==6.0
+pyyaml>=6.0.3
 readability-lxml==0.8.1
 requests
-tiktoken==0.3.3
+tiktoken>=0.9.0
 gTTS==2.3.1
 docker
-duckduckgo-search
+duckduckgo-search<3
 google-api-python-client #(https://developers.google.com/custom-search/v1/overview)
 pinecone-client==2.2.1
 redis
@@ -20,8 +20,7 @@ webdriver-manager
 jsonschema
 tweepy
 click
-spacy>=3.0.0,<4.0.0
-en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.4.0/en_core_web_sm-3.4.0-py3-none-any.whl
+spacy>=3.8.0,<4.0.0
 
 ##Dev
 coverage

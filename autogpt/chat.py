@@ -1,6 +1,6 @@
 import time
 
-from openai.error import RateLimitError
+import openai
 
 from autogpt import token_counter
 from autogpt.config import Config
@@ -169,7 +169,7 @@ def chat_with_ai(
             )
 
             return assistant_reply
-        except RateLimitError:
+        except openai.RateLimitError:
             # TODO: When we switch to langchain, this is built in
             print("Error: ", "API Rate Limit Reached. Waiting 10 seconds...")
             time.sleep(10)

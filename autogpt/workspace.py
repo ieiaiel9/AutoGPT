@@ -27,20 +27,29 @@ def path_in_workspace(relative_path: str | Path) -> Path:
     return safe_path_join(WORKSPACE_PATH, relative_path)
 
 
-def safe_path_join(base: Path, *paths: str | Path) -> Path:
-    """Join one or more path components, asserting the resulting path is within the workspace.
+def safe_path_join(
+    base: Path, *paths: str | Path, restrict: bool | None = None
+) -> Path:
+    """Join one or more path components, asserting the resulting path is within base.
 
     Args:
         base (Path): The base path
-        *paths (str): The paths to join to the base path
+        *paths (str | Path): The paths to join to the base path
+        restrict (bool | None): Override workspace restriction. Defaults to
+            CFG.restrict_to_workspace when None.
 
     Returns:
         Path: The joined path
+
+    Raises:
+        ValueError: If the resulting path escapes the base directory and
+            restriction is enabled.
     """
-    base = base.resolve()
+    should_restrict = CFG.restrict_to_workspace if restrict is None else restrict
+    base = Path(base).resolve()
     joined_path = base.joinpath(*paths).resolve()
 
-    if CFG.restrict_to_workspace and not joined_path.is_relative_to(base):
+    if should_restrict and not joined_path.is_relative_to(base):
         raise ValueError(
             f"Attempted to access path '{joined_path}' outside of workspace '{base}'."
         )

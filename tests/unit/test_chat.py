@@ -34,7 +34,7 @@ class TestChat(unittest.TestCase):
         # Assert
         expected_result = (
             -1,
-            47,
+            44,  # updated: token_counter now uses 3 tokens/message (correct for all current models)
             3,
             [
                 {"role": "system", "content": ""},

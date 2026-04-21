@@ -10,7 +10,7 @@ class TestTokenCounter(unittest.TestCase):
             {"role": "user", "content": "Hello"},
             {"role": "assistant", "content": "Hi there!"},
         ]
-        self.assertEqual(count_message_tokens(messages), 17)
+        self.assertEqual(count_message_tokens(messages), 15)
 
     def test_count_message_tokens_with_name(self):
         messages = [
@@ -51,8 +51,10 @@ class TestTokenCounter(unittest.TestCase):
             {"role": "user", "content": "Hello"},
             {"role": "assistant", "content": "Hi there!"},
         ]
-        with self.assertRaises(NotImplementedError):
-            count_message_tokens(messages, model="invalid_model")
+        # Unknown models now fall back to cl100k_base instead of raising
+        result = count_message_tokens(messages, model="invalid_model")
+        self.assertIsInstance(result, int)
+        self.assertGreater(result, 0)
 
     def test_count_string_tokens_gpt_4(self):
         string = "Hello, world!"

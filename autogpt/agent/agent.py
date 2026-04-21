@@ -10,6 +10,23 @@ from autogpt.speech import say_text
 from autogpt.spinner import Spinner
 from autogpt.utils import clean_input
 
+try:
+    import importlib.util
+    import os as _os
+    _fts5_spec = importlib.util.spec_from_file_location(
+        "sqlite_fts5_memory",
+        _os.path.join(_os.path.dirname(__file__), "..", "..", "_extracted", "sqlite_fts5_memory.py"),
+    )
+    if _fts5_spec and _fts5_spec.loader:
+        _fts5_mod = importlib.util.module_from_spec(_fts5_spec)
+        _fts5_spec.loader.exec_module(_fts5_mod)
+        FTS5Memory = _fts5_mod.FTS5Memory
+        _fts5_available = True
+    else:
+        _fts5_available = False
+except Exception:
+    _fts5_available = False
+
 
 class Agent:
     """Agent class for interacting with Auto-GPT.
@@ -48,6 +65,14 @@ class Agent:
         self.next_action_count = next_action_count
         self.system_prompt = system_prompt
         self.triggering_prompt = triggering_prompt
+        # FTS5 write-through memory (secondary layer — does not affect primary memory)
+        if _fts5_available:
+            try:
+                self.fts5_memory = FTS5Memory()
+            except Exception:
+                self.fts5_memory = None
+        else:
+            self.fts5_memory = None
 
     def start_interaction_loop(self):
         # Interaction Loop
@@ -182,6 +207,11 @@ class Agent:
             )
 
             self.memory.add(memory_to_add)
+            if self.fts5_memory is not None:
+                try:
+                    self.fts5_memory.add(memory_to_add)
+                except Exception:
+                    pass
 
             # Check if there's a result from the command append it to the message
             # history
